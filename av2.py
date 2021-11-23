@@ -1,3 +1,6 @@
+# AV2 JOÃO VICTOR NAHIME 
+# 201703207271
+# LIBSTORY DE JOÃO
 def bubbleSort(L, ordem, opcao):
     if ordem == 'C':
         for i in range(len(L)-1):
